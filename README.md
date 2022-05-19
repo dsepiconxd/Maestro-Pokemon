@@ -1,2 +1,2 @@
 # Maestro-Pokemon
-Ejercicio de maquetación
+Ejercicio de maquetación: https://dsepiconxd.github.io/Maestro-Pokemon/
