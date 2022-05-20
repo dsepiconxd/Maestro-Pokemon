@@ -1,0 +1,10 @@
+*{
+    padding: 0rem;
+    margin: 0.5rem;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: monospace;
+}
